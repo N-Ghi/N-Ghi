@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any programming projects
 - 😄 Pronouns: she/her/hers
 - 💾 Web Portfolio: https://ghislainenagasaro.wixsite.com/ghislainenagasaro
+- Alternate GitHub Acoount: https://github.com/Ghyghi
 
 ### My Stack
 
